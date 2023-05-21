@@ -1,0 +1,18 @@
+h1{
+    display: inline-block;
+    text-align: center;
+
+
+}
+body{
+
+     text-align: center;
+}
+.btn{
+text-align: center;
+size:5rem;
+padding: 90px;
+width :7%;
+height :80px;
+
+}
